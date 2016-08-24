@@ -83,9 +83,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:github:widgetech/teaching-academy.git</connection>
-		<developerConnection>scm:github:widgetech/teaching-academy.git</developerConnection>
-		<url>scm:github:widgetech/teaching-academy.git</url>
+		<connection>scm:git@github.com:widgetech/teaching-academy.git</connection>
+		<developerConnection>scm:git@github.com:widgetech/teaching-academy.git</developerConnection>
+		<url>scm:git@github.com:widgetech/teaching-academy.git</url>
 	</scm>
 
 	<build>
