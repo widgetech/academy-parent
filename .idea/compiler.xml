@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="academy-audit" />
+        <module name="academy-audit-integration" />
+        <module name="academy-audit-interface" />
+        <module name="academy-audit-repository" />
+        <module name="academy-courses" />
+        <module name="academy-courses-integration" />
+        <module name="academy-courses-interface" />
+        <module name="academy-courses-repository" />
+        <module name="academy-registration" />
+        <module name="academy-registration-integration" />
+        <module name="academy-registration-interface" />
+        <module name="academy-registration-repository" />
+        <module name="academy-shared" />
+        <module name="academy-student" />
+        <module name="academy-student-integration" />
+        <module name="academy-student-interface" />
+        <module name="academy-user-details" />
+        <module name="academy-user-details-integration" />
+        <module name="academy-user-details-interface" />
+        <module name="academy-user-details-repository" />
+        <module name="academy-utils" />
+        <module name="academy-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="academy-audit" target="1.7" />
+      <module name="academy-audit-integration" target="1.7" />
+      <module name="academy-audit-interface" target="1.7" />
+      <module name="academy-audit-repository" target="1.7" />
+      <module name="academy-courses" target="1.7" />
+      <module name="academy-courses-integration" target="1.7" />
+      <module name="academy-courses-interface" target="1.7" />
+      <module name="academy-courses-repository" target="1.7" />
+      <module name="academy-parent" target="1.5" />
+      <module name="academy-registration" target="1.7" />
+      <module name="academy-registration-integration" target="1.7" />
+      <module name="academy-registration-interface" target="1.7" />
+      <module name="academy-registration-repository" target="1.7" />
+      <module name="academy-shared" target="1.7" />
+      <module name="academy-student" target="1.7" />
+      <module name="academy-student-integration" target="1.7" />
+      <module name="academy-student-interface" target="1.7" />
+      <module name="academy-user-details" target="1.7" />
+      <module name="academy-user-details-integration" target="1.7" />
+      <module name="academy-user-details-interface" target="1.7" />
+      <module name="academy-user-details-repository" target="1.7" />
+      <module name="academy-utils" target="1.7" />
+      <module name="academy-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

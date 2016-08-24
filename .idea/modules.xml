@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/academy-audit/academy-audit.iml" filepath="$PROJECT_DIR$/academy-audit/academy-audit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-audit-integration/academy-audit-integration.iml" filepath="$PROJECT_DIR$/academy-audit-integration/academy-audit-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-audit-interface/academy-audit-interface.iml" filepath="$PROJECT_DIR$/academy-audit-interface/academy-audit-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-audit-repository/academy-audit-repository.iml" filepath="$PROJECT_DIR$/academy-audit-repository/academy-audit-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-courses/academy-courses.iml" filepath="$PROJECT_DIR$/academy-courses/academy-courses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-courses-integration/academy-courses-integration.iml" filepath="$PROJECT_DIR$/academy-courses-integration/academy-courses-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-courses-interface/academy-courses-interface.iml" filepath="$PROJECT_DIR$/academy-courses-interface/academy-courses-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-courses-repository/academy-courses-repository.iml" filepath="$PROJECT_DIR$/academy-courses-repository/academy-courses-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-parent.iml" filepath="$PROJECT_DIR$/academy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-registration/academy-registration.iml" filepath="$PROJECT_DIR$/academy-registration/academy-registration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-registration-integration/academy-registration-integration.iml" filepath="$PROJECT_DIR$/academy-registration-integration/academy-registration-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-registration-interface/academy-registration-interface.iml" filepath="$PROJECT_DIR$/academy-registration-interface/academy-registration-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-registration-repository/academy-registration-repository.iml" filepath="$PROJECT_DIR$/academy-registration-repository/academy-registration-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-shared/academy-shared.iml" filepath="$PROJECT_DIR$/academy-shared/academy-shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-student/academy-student.iml" filepath="$PROJECT_DIR$/academy-student/academy-student.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-student-integration/academy-student-integration.iml" filepath="$PROJECT_DIR$/academy-student-integration/academy-student-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-student-interface/academy-student-interface.iml" filepath="$PROJECT_DIR$/academy-student-interface/academy-student-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-user-details/academy-user-details.iml" filepath="$PROJECT_DIR$/academy-user-details/academy-user-details.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-user-details-integration/academy-user-details-integration.iml" filepath="$PROJECT_DIR$/academy-user-details-integration/academy-user-details-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-user-details-interface/academy-user-details-interface.iml" filepath="$PROJECT_DIR$/academy-user-details-interface/academy-user-details-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-user-details-repository/academy-user-details-repository.iml" filepath="$PROJECT_DIR$/academy-user-details-repository/academy-user-details-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-utils/academy-utils.iml" filepath="$PROJECT_DIR$/academy-utils/academy-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy-web/academy-web.iml" filepath="$PROJECT_DIR$/academy-web/academy-web.iml" />
+    </modules>
+  </component>
+</project>

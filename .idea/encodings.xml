@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-audit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-audit-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-audit-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-audit-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-courses" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-courses-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-courses-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-courses-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-registration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-registration-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-registration-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-registration-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-shared" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-student" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-student-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-student-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-user-details" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-user-details-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-user-details-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-user-details-repository" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/academy-web" charset="UTF-8" />
+  </component>
+</project>

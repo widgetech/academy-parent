@@ -1,0 +1,49 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="academy-web:war exploded">
+    <output-path>$PROJECT_DIR$/academy-web/target/academy-web-2.0.6-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="academy-web" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="academy-student-2.0.6-SNAPSHOT.jar">
+            <element id="module-output" name="academy-student" />
+          </element>
+          <element id="archive" name="academy-student-interface-2.0.6-SNAPSHOT.jar">
+            <element id="module-output" name="academy-student-interface" />
+          </element>
+          <element id="archive" name="academy-user-details-2.0.6-SNAPSHOT.jar">
+            <element id="module-output" name="academy-user-details" />
+          </element>
+          <element id="archive" name="academy-user-details-interface-2.0.6-SNAPSHOT.jar">
+            <element id="module-output" name="academy-user-details-interface" />
+          </element>
+          <element id="archive" name="academy-shared-2.0.6-SNAPSHOT.jar">
+            <element id="module-output" name="academy-shared" />
+          </element>
+          <element id="archive" name="academy-user-details-repository-2.0.6-SNAPSHOT.jar">
+            <element id="module-output" name="academy-user-details-repository" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework:spring-test:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.2.4.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
+          <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/academy-web/target/academy-web-2.0.6-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="academy-web/web/Web" />
+    </root>
+  </artifact>
+</component>
